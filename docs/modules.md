@@ -1,6 +1,6 @@
-[Typescript classes](index.md) / Exports
+[TypeScript classes](index.md) / Exports
 
-# Typescript classes
+# TypeScript classes
 
 ## Table of contents
 

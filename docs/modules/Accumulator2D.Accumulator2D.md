@@ -1,4 +1,4 @@
-[Typescript classes](../index.md) / [Exports](../modules.md) / [Accumulator2D](Accumulator2D.md) / Accumulator2D
+[TypeScript classes](../index.md) / [Exports](../modules.md) / [Accumulator2D](Accumulator2D.md) / Accumulator2D
 
 # Namespace: Accumulator2D
 
