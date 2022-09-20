@@ -1,0 +1,6 @@
+{
+  "extends": "real-config/typedoc/recommended",
+  "name": "Typescript classes",
+  "out": "docs",
+  "tsconfig": "tsconfig-typedoc.json"
+}
