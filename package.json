@@ -2,8 +2,9 @@
   "name": "real-classes",
   "version": "1.0.0",
   "private": false,
-  "description": "TypeScript classes",
+  "description": "A collection of utility classes.",
   "keywords": [
+    "classes",
     "ts",
     "typescript",
     "util",
