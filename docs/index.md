@@ -15,26 +15,26 @@ TypeScript classes / [Exports](modules.md)
 - [Modules](#modules)
 - [Related packages](#related-packages)
 
-## <a name="overview"></a>Overview
+## [](#overview)Overview
 
 A collection of utility classes.
 
-## <a name="installation"></a>Installation
+## [](#installation)Installation
 
 ```sh
 npm install real-classes
 ```
 
-## <a name="modules"></a>Modules
+## [](#modules)Modules
 
 - [Accumulator](https://ilyub.github.io/real-classes/modules/Accumulator.html) &mdash; Accumulates multiple values per key.
 - [Accumulator2D](https://ilyub.github.io/real-classes/modules/Accumulator2D.html) &mdash; Accumulates multiple values per two keys.
 
-## <a name="related-packages"></a>Related packages
+## [](#related-packages)Related packages
 
 - [eslint-plugin-misc](https://www.npmjs.com/package/eslint-plugin-misc) &mdash; ESLint plugin.
 - [quasar-extension](https://www.npmjs.com/package/quasar-extension) &mdash; Quasar extension.
 - [real-fns](https://www.npmjs.com/package/real-fns) &mdash; A collection of utility functions.
 - [real-classes](https://www.npmjs.com/package/real-classes) &mdash; A collection of utility classes.
 - [real-facades](https://www.npmjs.com/package/real-facades) &mdash; Facades (each facade provides interface to pluggable implementation).
-- [real-framework](https://www.npmjs.com/package/real-framework) &mdash; Facade implementations.
+- [real-service-providers](https://www.npmjs.com/package/real-service-providers) &mdash; Facade implementations.
