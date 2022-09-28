@@ -13,22 +13,22 @@
 - [Modules](#modules)
 - [Related packages](#related-packages)
 
-## [](#overview)Overview
+## <a id="overview"></a>Overview
 
 A collection of utility classes.
 
-## [](#installation)Installation
+## <a id="installation"></a>Installation
 
 ```sh
 npm install real-classes
 ```
 
-## [](#modules)Modules
+## <a id="modules"></a>Modules
 
 - [Accumulator](https://ilyub.github.io/real-classes/modules/Accumulator.html) &mdash; Accumulates multiple values per key.
 - [Accumulator2D](https://ilyub.github.io/real-classes/modules/Accumulator2D.html) &mdash; Accumulates multiple values per two keys.
 
-## [](#related-packages)Related packages
+## <a id="related-packages"></a>Related packages
 
 - [eslint-plugin-misc](https://www.npmjs.com/package/eslint-plugin-misc) &mdash; ESLint plugin.
 - [quasar-extension](https://www.npmjs.com/package/quasar-extension) &mdash; Quasar extension.
